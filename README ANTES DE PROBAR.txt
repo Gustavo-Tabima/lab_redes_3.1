@@ -1,0 +1,1 @@
+Cree una file dummy de 250 mb al probar el repositorio dado que a nosotros no nos dejó subirlo a github
